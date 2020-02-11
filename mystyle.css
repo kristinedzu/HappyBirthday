@@ -4,12 +4,6 @@ body {
     background-image: url(images/back.jpg);
 }
 
-.audio {
-    position: absolute;
-    left: 332px;
-
-}
-
 .kris {
     width: 143px;
     border-radius: 75px;
